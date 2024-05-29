@@ -57,7 +57,11 @@
               {% if block.settings.image != blank %}
               {%- assign image_alt = block.settings.image.alt -%}
               {% if block.settings.btnurl != blank %} <a href="{{block.settings.btnurl}}"> {% endif %}
-              {{ block.settings.image | img_url: image_size | img_tag: image_alt, 'custom__image' }}                
+                <img 
+                  src="{{ block.settings.image | img_url: image_size }}" 
+                  alt="{{ image_alt }}" 
+                  class="custom__image" 
+                  loading="lazy">
               {% if block.settings.btnurl != blank %} </a> {% endif %}
               {% endif %}
               <div class="custom-text">                	
