@@ -2531,21 +2531,28 @@ margin: -15px -15px 15px;
 /***** Hamid - 05/29/2024 ******/
 /*** Sticky Add To Cart **/
 .stickyATC {
-    position: fixed;
-    bottom: 0;
-    width: 90vw;
-    bottom: 20px;
-    margin: auto;
-    left: 5vw;
-    z-index: 999999;
-    opacity: 0;
-    pointer-events: none;
-    transition: 0.5s ease;
+  position: fixed;
+  bottom: 0;
+  width: 450px;
+  left: calc(50% - 225px);
+  bottom: 20px;
+  margin: auto;
+  z-index: 999999;
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.5s ease;
 }
 
 .stickyATC.visible {
-    opacity: 1;
-    pointer-events: visible;
+  opacity: 1;
+  pointer-events: visible;
+}
+
+@media (max-width: 768px) {
+  .stickyATC {
+    width: 90vw;
+    left: 5vw;
+  }
 }
 /*** Sticky Add To Cart End **/
 /***** Hamid - 05/29/2024 End******/
