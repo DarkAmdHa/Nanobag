@@ -42,7 +42,11 @@
             {% if block.settings.image != blank %}
             {%- assign image_alt = block.settings.image.alt -%}
             {% if block.settings.imgurl != blank %} <a href="{{block.settings.imgurl}}"> {% endif %}
-            {{ block.settings.image | img_url: 'master' | img_tag: image_alt, 'custom__image' }}
+              <img 
+                src="{{ block.settings.image | img_url: 'master' }}" 
+                alt="{{ image_alt }}" 
+                class="custom__image" 
+                loading="lazy">
             {% if block.settings.imgurl != blank %} </a> {% endif %}
             {% else %}
             {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
