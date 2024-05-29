@@ -43,8 +43,6 @@
             src="{{ block.settings.image | img_url: 'master' }}" 
             alt="{{ image_alt }}" 
             class="custom__image" 
-            width="{{ block.settings.image.width }}"
-            height="{{ block.settings.image.height }}"
             loading="lazy">
           {% if block.settings.imgurl != blank %} </a> {% endif %}
           {% else %}
@@ -60,8 +58,6 @@
               src="{{ block.settings.image | img_url: image_size }}" 
               alt="{{ image_alt }}" 
               class="custom__image" 
-              width="{{ block.settings.image.width }}"
-              height="{{ block.settings.image.height }}"
               loading="lazy">             
             {% if block.settings.btnurl != blank %} </a> {% endif %}
             {% endif %}
