@@ -237,7 +237,9 @@
                   <span class="small--hide medium--hide"> | </span>
                   <span itemprop="name">{{ 'products.product.you_save' | t}}</span>
                   <span id="SaveAmount-{{ section.id }}" class="product-single__save-amount">{{ current_variant.compare_at_price | minus: current_variant.price | money }}</span>
-                  <span class="off">(<span>{{ current_variant.compare_at_price | minus: current_variant.price | times: 100 | divided_by: current_variant.compare_at_price }}</span>%{{ 'products.product.off' | t}})</span>
+                  {% if current_variant.compare_at_price > 0 %}
+                    <span class="off">(<span>{{ current_variant.compare_at_price | minus: current_variant.price | times: 100 | divided_by: current_variant.compare_at_price }}</span>%{{ 'products.product.off' | t}})</span>
+                  {% endif %}
               </span>
           {% endif %}         
       </p>
