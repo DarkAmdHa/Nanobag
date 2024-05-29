@@ -101,8 +101,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% render 'weglot_switcher' %}
   {%- endif -%}
 
-	{{ shop.metafields.loox["global_html_head"] }}
-{% include 'alireviews_core' %} 
    {% render 'judgeme_core' %}
 
 {% include "openGeo" %}
@@ -147,8 +145,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {%- if settings.show_sticky_arrow -%}<span id="site-scroll"><i class="ad ad-arw-up" aria-hidden="true"></i></span>{%- endif -%}
 <script src="{{ 'script-loader.js' | asset_url }}" defer></script>
 
-	{{ shop.metafields.loox["global_html_body"] }}
- 
  <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHXM36M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
