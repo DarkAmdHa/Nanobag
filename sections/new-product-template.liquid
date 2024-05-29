@@ -33,7 +33,7 @@
 {%- assign product_thumbnail_width = 'small--one-third large-up--one-fifth' -%}
 {%- assign featured_img_src = current_variant.featured_image.src | default: product.featured_image.src -%}
 
-<div class="ptContainer {{settings.product_latyout}}{% if settings.product_latyout != "style6" %} page-width{% if settings.product_fullwidth %} fullwidth{%endif%}{%endif%}" data-style="{{settings.product_latyout}}" id="ProductSection-{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="product" data-enable-history-state="true">
+<div class="ptContainer {{settings.product_latyout}}{% if settings.product_latyout != "style6" %} page-width{% if settings.product_fullwidth %} fullwidth{% endif %}{% endif %}" data-style="{{settings.product_latyout}}" id="ProductSection-{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="product" data-enable-history-state="true">
 	{%- capture productImages -%}
 		<div class="prod-large-img" data-product-single-media-group>
           	{%- liquid
@@ -363,6 +363,20 @@
                                   {% endif %}
                               </span>
                           </button>
+
+                          {% if settings.stickyATC == true %}
+                          <button type="submit" name="add" id="AddToCart-{{ section.id }}" {% unless current_variant.available %}disabled="disabled"{% endunless %} class="btn product-form__cart-submit{% if settings.addto_btn_an %} btnzoom{% endif %} stickyATC">
+                            <span id="AddToCartText-{{ section.id }}">
+                                {% if current_variant.available and current_variant.inventory_quantity < 1 and current_variant.inventory_management == "shopify" %}
+                                  {{'products.product.pre_order' | t }}
+                                {% elsif current_variant.available %}
+                                  {{ 'products.product.add_to_cart' | t }}
+                                {% else %}
+                                  {{'products.product.sold_out' | t }}
+                                {% endif %}
+                            </span>
+                        </button>
+                    {% endif %}
                   </div>
                   {% if settings.enable_payment_button %}
                       {%- if settings.terms_checkbox -%}
