@@ -1,0 +1,44 @@
+<script>
+  // Function to retrieve the visitor's country code
+  function getVisitorCountryCode(callback) {
+    // Make an API call to IP Geolocation API
+    fetch('https://api.ipgeolocation.io/ipgeo?apiKey=6b94050c8ca54b798e477767d39ee76e')
+      .then(response => response.json())
+      .then(data => {
+        console.log('IP Geolocation API Response:', data);
+        // Pass the country code to the specified callback function
+        callback(data.country_code2);
+      })
+      .catch(error => {
+        console.error('Error retrieving country code:', error);
+      });
+  }
+
+  // Call the function and redirect based on the country code
+  getVisitorCountryCode(function(countryCode) {
+    console.log('Visitor Country Code:', countryCode);
+    if (countryCode === 'EU' && window.location.pathname !== '/products/test-product-1') {
+      console.log('Redirecting to Europe');
+      window.location.href = '/products/test-product-1';
+    } else if (countryCode === 'US' && window.location.pathname !== '/products/test-product-2') {
+      console.log('Redirecting to USA');
+      window.location.href = '/products/test-product-2';
+    } else {
+      console.log('No redirect necessary');
+    }
+  });
+</script>
+
+
+{% schema %}
+  {
+    "name": "Section name",
+    "settings": []
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

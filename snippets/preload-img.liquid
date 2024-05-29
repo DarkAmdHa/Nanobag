@@ -1,0 +1,7 @@
+{% if template contains 'index' %}
+ <link rel="preload" as="image" href="https://nanobag.com/cdn/shop/files/website_banner_color_corrected.webp?v=1663647261" fetchpriority="high">
+{% elsif template contains 'product' %}
+  <link rel="preload" as="image" href="{{ product.featured_image | img_url:"414x" }}" fetchpriority="high" >
+{% elsif template contains 'collection' %}
+   <link rel="preload" as="image" href="{{ collection.featured_image | img_url:"414x" }}" fetchpriority="high">
+{% endif %}
