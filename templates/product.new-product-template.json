@@ -179,10 +179,13 @@
         "quote_pDPhzH",
         "quote_JcXQDG"
       ],
+      "custom_css": [
+        ".sec-template--16605028515976__quotes_XNBJry {margin-top: -50px;}"
+      ],
       "settings": {
         "section_width": true,
         "top-offeset": "default",
-        "title": "<h1>OUR CUSTOMERS LOVE NANOBAGS<\/h1>",
+        "title": "<h2>OUR CUSTOMERS LOVE NANOBAGS<\/h2>",
         "quoteStyle": "style1",
         "autoplay": true,
         "autoplay_speed": 8,
