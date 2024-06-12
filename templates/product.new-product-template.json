@@ -148,7 +148,7 @@
           "type": "quote",
           "settings": {
             "quote": "<h6>Love these bags! They are so tiny they fit anywhere so I always have a reusable bag with me. They hold a ton of stuff even if it's really heavy.<\/h6>",
-            "author": "Susan\n",
+            "author": "Susan",
             "display_rat": true,
             "rating": 5
           }
@@ -169,6 +169,7 @@
         "quote_wxD6yp",
         "quote_GrDBYp"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 768px) {.sec-template--16605028515976__quotes_XNBJry {margin-top: -50px;}"
       ],
@@ -182,8 +183,8 @@
         "arrow": true,
         "dots": true,
         "testimonials_bg": "#f9f9f9",
-        "testimonials_hd": "#444",
-        "testimonials_text": "#444",
+        "testimonials_hd": "#444444",
+        "testimonials_text": "#444444",
         "text_bg": "rgba(0,0,0,0)",
         "rating_clr": "#ffbc53"
       }
