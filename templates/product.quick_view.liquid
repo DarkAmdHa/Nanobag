@@ -1,4 +1,4 @@
-{%- layout none -%}
+{% include 'product-content.zipifypages', contentprt: 'header' %}{%- layout none -%}
 {% comment %}
 	{%- layout none -%}
   	The contents of the product.liquid template can be found in /sections/product-template.liquid
@@ -298,4 +298,4 @@ Shopify.linkOptionSelectors = function(product) {
   {%- endfor -%}
   $('.single-option-selector-quickView').trigger('change');
 {%- endif -%}
-</script>
+</script>{% include 'product-content.zipifypages', contentprt: 'footer' %}

@@ -1,4 +1,4 @@
-{%- layout none -%}
+{% include 'product-content.zipifypages', contentprt: 'header' %}{%- layout none -%}
 <meta name="robots" content="noindex">
 <a class="closeShop" href="#"><i class="ad ad-times-r"></i></a>
 {% if product == empty %}
@@ -176,4 +176,4 @@ Shopify.linkOptionSelectors = function(product) {
   }
   Shopify.linkOptionSelectors(JSON.parse(document.getElementById('quickshopJson-{{product.id}}').innerHTML));
 {% endif %}
-</script>
+</script>{% include 'product-content.zipifypages', contentprt: 'footer' %}
