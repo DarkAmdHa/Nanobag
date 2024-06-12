@@ -11,6 +11,7 @@
   "sections": {
     "page": {
       "type": "page-template",
+      "disabled": true,
       "settings": {
         "section_width": false,
         "hide_hdft": false,
@@ -38,9 +39,9 @@
         "fullwidth": false,
         "top-offeset": "none",
         "title": "<h1>Nanobag - Our Quest for the Perfect Shopping Bag <\/h1>",
-        "ttl-text-size": 37,
+        "ttl-text-size": 31,
         "richtxt": "<p>In a moment of shared inspiration, Ursus Negenborn and Rune Kippervik embarked on a mission to reshape the way we think about reusable bags. Frustrated by the lack of sustainable options that fit seamlessly into their busy lives, they set out to create the most practical reusable bag in the world. The Nanobag was born from their vision of a world where convenience and care for the environment go hand-in-hand. The Nanobag is the ultimate companion for all of life’s adventures. <\/p>",
-        "text-size": 19,
+        "text-size": 17,
         "btntxt": "",
         "btnurl": "",
         "btn-style": "btn",
@@ -49,11 +50,11 @@
         "btn-style2": "btn",
         "btn-size-desk": "btn-sm",
         "btn-size-mob": "mob-btn-sm",
-        "max-width": 95,
+        "max-width": 65,
         "txt_align": "tc",
         "section_cov": true,
-        "sec_bg_clr": "#000",
-        "text_clr": "#ffffff"
+        "sec_bg_clr": "#ffffff",
+        "text_clr": "#000000"
       }
     },
     "logo_bar_WXc7Rb": {
@@ -62,6 +63,7 @@
         "logo_image_f44r3R": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/forbes_2_1_2_9d770fb0-c651-402a-a025-28d2adbf1922.png",
             "link": "",
             "opentab": false
           }
@@ -86,10 +88,11 @@
         "logo_image_L6zqDc",
         "logo_image_BgMh8w"
       ],
+      "disabled": true,
       "settings": {
         "top-offeset": "default",
-        "section_cov": false,
-        "sec_bg_clr": "#fafafa",
+        "section_cov": true,
+        "sec_bg_clr": "#01b99f",
         "title": "",
         "subtitle": "",
         "logostyle": "carousel",
@@ -181,7 +184,7 @@
       "type": "hero",
       "custom_css": [
         "h2 {font-size: 55px;}",
-        ".hero-template--16605027565704__hero_xBaGHV .wrap-text {background-color: rgb(255 255 255 \/ 100%); border-radius: 15px;}"
+        ".hero-template--16605027565704__hero_xBaGHV .wrap-text {background-color: rgb(255 255 255 \/ 100%); border-radius: 15px; border: 2px solid #000;}"
       ],
       "settings": {
         "top-offeset": "default",
