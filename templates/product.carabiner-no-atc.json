@@ -1,1 +1,420 @@
-{"sections":{"product":{"type":"carabiner-no-atc-template","blocks":{"b09310d8-6243-41a4-8688-c32e3ef763c0":{"type":"descriptions","settings":{"title":"PRODUCT DETAILS"}},"e93fe9d7-86fe-4f4c-8a25-586b3b13ddba":{"type":"review","disabled":true,"settings":{"title":"REVIEWS"}},"a5ae98c9-5d60-4cc9-a24c-22a0249c1389":{"type":"sizechart","disabled":true,"settings":{"title":"SIZE & SPECS"}},"01d734ae-d721-4a1e-81c1-f2de210416f8":{"type":"custom","disabled":true,"settings":{"title":"SHIPPING INFO","content":"<h4>US SHIPPING<\/h4>\n\n<p>We ship all over the US with USPS. Please allow 2-6 days for delivery.<\/p>"}},"851c8293-421a-46c2-aabb-4cfbda159662":{"type":"custom","disabled":true,"settings":{"title":"CUSTOM TABS","content":"You can set different tabs for each products."}}},"block_order":["b09310d8-6243-41a4-8688-c32e3ef763c0","e93fe9d7-86fe-4f4c-8a25-586b3b13ddba","a5ae98c9-5d60-4cc9-a24c-22a0249c1389","01d734ae-d721-4a1e-81c1-f2de210416f8","851c8293-421a-46c2-aabb-4cfbda159662"],"settings":{"show_product_tabs":false}},"related-products":{"type":"related-products","disabled":true,"settings":{"show_related_products":true,"title":"Related Products","subtitle":"You can stop autoplay, increase\/decrease aniamtion speed and number of grid to show and products from store admin.","type":"1","grid":4,"tablet-grid":3,"mobile-grid":2,"related_total_product_to_show":"8","related_products_autoplay":false,"autoplay_speed":"3000"}},"recommendations":{"type":"product-recommendations","disabled":true,"settings":{"show_product_recommendations":true,"recommanded_products_autoplay":false,"autoplay_speed":"3000","title":"Recommended Products","subtitle":"","grid":4,"tablet-grid":3,"mobile-grid":2,"recommanded_total_product_to_show":"8"}},"recently-viewed":{"type":"recently-viewed","disabled":true,"settings":{"show_recently_products":true,"recently_autoplay":false,"autoplay_speed":"3000","title":"Recently Viewed Products","subtitle":"You can stop autoplay, increase\/decrease aniamtion speed and number of grid to show and products from store admin.","grid":4,"tablet-grid":3,"mobile-grid":2,"recently_pr_limit":"8"}},"1658398601c554c350":{"type":"info-lines","settings":{"fullwidth":true,"top-offeset":"default","infolines":"<b>Get 5% Discount when you buy 4 bags. 10% for 6 bags, 20% for 8 bags, and 25% for 10 bags and above. <\/b>","text-size":16,"sec_bg_clr":"#c10000","text_clr":"#ffffff","text-padding":20}},"16582204060c664149":{"type":"custom-content","blocks":{"16582204060742f5e3-0":{"type":"text","settings":{"title":"Meet The World's Lightest Bag*","font-size":"h3","text":"<p>Weighing between <strong>0.59-0.91oz (17-26 grams) <\/strong>Nanobags are the lightest and most practical ultralight bags of its kind on the market. So far we've raised more than $1.7 million on Kickstarter and Indiegogo. They're the perfect everyday carry bags and carry just about anything.<em>(*of its kind and to the best of our knowledge)<\/em><\/p><p><\/p>","btntxt":"Read More","btnurl":"","btn-style":"btn","width":"50%","alignment":"center","align_text":"left","eblock_bg":false,"block_bg":"#f5f5f5","block_txt":"#000000"}},"16582204060742f5e3-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/pouch_720x_36bbdbd4-ea80-4117-a205-d0659e48ea5d.gif","imgurl":"","width":"50%","alignment":"center"}},"d4483864-3f6a-4bb7-845c-727ebc534f5d":{"type":"text","settings":{"title":"The problem with single-use bags…","font-size":"h3","text":"<p>● 160,000 plastic bags are consumed every second and it takes about 14 plastic bags for the equivalent of the gas required to drive one mile.<\/p><p>● Overconsumption is detrimental to the environment and also adds unnecessary costs to the consumers.<\/p><p>● An average person spends $103 a year on single-use plastic bags.<\/p>","btntxt":"Read More","btnurl":"","btn-style":"btn","width":"50%","alignment":"center","align_text":"left","eblock_bg":false,"block_bg":"#f5f5f5","block_txt":"#000000"}},"74ad725a-5343-4850-94c5-417cc7133901":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/nb50_12_7.gif","imgurl":"","width":"50%","alignment":"center"}},"966386a5-e00b-4a19-9584-116d4669ada0":{"type":"text","settings":{"title":"…and Nanobag solves this problem","font-size":"h3","text":"<p>Nanobags are premium shopping bags so compact that you won’t even know you’re carrying them. Not only do they practically disappear in your pocket, they also come in a variety of models to cater to various carrying needs. Additionally our bags come in a wide range of colors and print designs and they’re all limited editions.<\/p>","btntxt":"Read More","btnurl":"","btn-style":"btn","width":"50%","alignment":"center","align_text":"left","eblock_bg":false,"block_bg":"#f5f5f5","block_txt":"#000000"}},"e65930c5-6c49-4ed2-bc33-1b605c791a49":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/NB30_66_lbs.gif","imgurl":"","width":"50%","alignment":"center"}},"aa7bb942-37cb-4e10-9720-6cd3af85e029":{"type":"text","settings":{"title":"... and you never have to worry","font-size":"h3","text":"<p>Nanobags easily carry a load of<strong> 66 lbs (30 kg)<\/strong>. Crafted with our custom-made <strong>diamond ripstop <\/strong>fabric and a sturdy construction they’re super reliable. We have <strong>bartack stitching<\/strong> reinforcing all major stress points to strengthen the structure of the bag. Our bags are also <strong>PFC-free<\/strong>, and are produced according <strong>Oekotex <\/strong>specifications to ensure that the materials are safe for both you and the environment.<\/p>","btntxt":"Read More","btnurl":"","btn-style":"btn","width":"50%","alignment":"center","align_text":"left","eblock_bg":false,"block_bg":"#f5f5f5","block_txt":"#000000"}},"e02c3c3f-a10e-4483-b623-e37021309020":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/NB30_Back_Pocket.gif","imgurl":"","width":"50%","alignment":"center"}},"3e574895-8bb8-4112-bd6b-f72e92a690c6":{"type":"text","settings":{"title":"Quality guarantee","font-size":"h3","text":"<p>We're 100% committed to creating high-quality products. The bags are made with premium custom made nylon polymer fabric and we've put in place a thorough quality-control and testing process to make sure you receive a great final product. <strong>We guarantee that your bags will be of excellent quality.<\/strong><\/p>","btntxt":"Read More","btnurl":"","btn-style":"btn","width":"50%","alignment":"center","align_text":"left","eblock_bg":false,"block_bg":"#f5f5f5","block_txt":"#000000"}},"26827c7c-d161-4403-ba28-bc2d3c04ddc4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/NB30_Testimonials.gif","imgurl":"","width":"50%","alignment":"center"}},"c2a226b6-2e66-48ed-92b8-3563192af6cb":{"type":"text","settings":{"title":"Every Nanobag plants a tree","font-size":"h3","text":"<p>For every bag we sell we plant a tree. We believe it's the responsibility of all companies to factor in the environment and plant trees to mitigate climate change and support local ecosystems. <\/p>","btntxt":"Read More","btnurl":"","btn-style":"btn","width":"50%","alignment":"center","align_text":"left","eblock_bg":false,"block_bg":"#f5f5f5","block_txt":"#000000"}},"95bed066-22d4-49a0-8dbe-4d233fade1b6":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/treeplanting.png","imgurl":"","width":"50%","alignment":"center"}}},"block_order":["16582204060742f5e3-0","16582204060742f5e3-1","d4483864-3f6a-4bb7-845c-727ebc534f5d","74ad725a-5343-4850-94c5-417cc7133901","966386a5-e00b-4a19-9584-116d4669ada0","e65930c5-6c49-4ed2-bc33-1b605c791a49","aa7bb942-37cb-4e10-9720-6cd3af85e029","e02c3c3f-a10e-4483-b623-e37021309020","3e574895-8bb8-4112-bd6b-f72e92a690c6","26827c7c-d161-4403-ba28-bc2d3c04ddc4","c2a226b6-2e66-48ed-92b8-3563192af6cb","95bed066-22d4-49a0-8dbe-4d233fade1b6"],"settings":{"title":"","subtitle":"","top-offeset":"default","section_width":false,"hide_mobile":false,"pad-desk":55,"pad-ipad":15,"pad-mbl":10,"prbox_style":"style1","section_cov":false,"sec_bg_clr":"#fafafa","btn-size-desk":"btn-sm","btn-size-mob":"mob-btn-sm"}},"17123060258deb6950":{"type":"apps","blocks":{"judge_me_reviews_review_widget_y6ydiA":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["judge_me_reviews_review_widget_y6ydiA"],"settings":{}},"alireviews-section-1658304551":{"type":"apps","blocks":{"9837fa45-b297-4a1d-9e73-3a670bee5436":{"type":"shopify:\/\/apps\/ryviu-reviews-qa\/blocks\/ryviu-product-reviews\/807ad6ed-1a6a-4559-abea-ed062858d9da","disabled":true,"settings":{"product":"","r_wapper":"","r_max_width":1920,"r_padding_block":0,"one_col_on_mobile":false,"hide_write_review_from":false,"hide_title_image_form":false}},"f26eb141-f48f-4d4b-83d7-b24338e36797":{"type":"shopify:\/\/apps\/ryviu-reviews-qa\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da","settings":{"r_wapper_class":"","r_max_width":1400,"r_padding_block":70,"hide_when_no_reviews":false,"one_col_on_mobile":false,"hide_title_image_form":false}}},"block_order":["9837fa45-b297-4a1d-9e73-3a670bee5436","f26eb141-f48f-4d4b-83d7-b24338e36797"],"settings":{}},"loox-product-reviews-app-section":{"type":"apps","settings":{}},"1658398565b9bf2365":{"type":"hero","disabled":true,"settings":{"top-offeset":"default","section_width":true,"pad-desk":0,"pad-ipad":0,"pad-mbl":0,"ds_height":600,"tb_height":350,"mb_height":250,"parallax_scroll":true,"alignment":"center","textalign":"center","pretext":"Pre Heading","title":"<b>BEST SELLING SHOPIFY <br> THEME IN THE MARKET<\/b>","text":"<p>The design of your site plays a crucial role. It can make or break your website leading to sales either <br\/>falling flat or converting profitably.<\/p>","txt_clr":"#000000","bg_clr":"#ffffff","bg_opacity":0.9,"bg_desktop":true,"bg_mobile":true,"button_label":"SHOP COLLECTION","button_link":"\/","link_image":false,"btn-style":"btn","btn-size-desk":"btn-sm","btn-size-mob":"mob-btn-sm","snow_effect":false,"snow_style":"style1","hero_dealtimer":false,"cnt_date":"12\/20\/2020","cnt_bg":"#000000","cnt_text":"#eeeeee","cnt_bdr":"#000000"}}},"order":["product","related-products","recommendations","recently-viewed","1658398601c554c350","16582204060c664149","17123060258deb6950","alireviews-section-1658304551","loox-product-reviews-app-section","1658398565b9bf2365"]}
+{
+  "sections": {
+    "zp-product-header-content": {
+      "type": "product-header-content-zipifypages",
+      "settings": {
+      }
+    },
+    "product": {
+      "type": "carabiner-no-atc-template",
+      "blocks": {
+        "b09310d8-6243-41a4-8688-c32e3ef763c0": {
+          "type": "descriptions",
+          "settings": {
+            "title": "PRODUCT DETAILS"
+          }
+        },
+        "e93fe9d7-86fe-4f4c-8a25-586b3b13ddba": {
+          "type": "review",
+          "disabled": true,
+          "settings": {
+            "title": "REVIEWS"
+          }
+        },
+        "a5ae98c9-5d60-4cc9-a24c-22a0249c1389": {
+          "type": "sizechart",
+          "disabled": true,
+          "settings": {
+            "title": "SIZE & SPECS"
+          }
+        },
+        "01d734ae-d721-4a1e-81c1-f2de210416f8": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "title": "SHIPPING INFO",
+            "content": "<h4>US SHIPPING<\/h4>\n\n<p>We ship all over the US with USPS. Please allow 2-6 days for delivery.<\/p>"
+          }
+        },
+        "851c8293-421a-46c2-aabb-4cfbda159662": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "title": "CUSTOM TABS",
+            "content": "You can set different tabs for each products."
+          }
+        }
+      },
+      "block_order": [
+        "b09310d8-6243-41a4-8688-c32e3ef763c0",
+        "e93fe9d7-86fe-4f4c-8a25-586b3b13ddba",
+        "a5ae98c9-5d60-4cc9-a24c-22a0249c1389",
+        "01d734ae-d721-4a1e-81c1-f2de210416f8",
+        "851c8293-421a-46c2-aabb-4cfbda159662"
+      ],
+      "settings": {
+        "show_product_tabs": false
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "show_related_products": true,
+        "title": "Related Products",
+        "subtitle": "You can stop autoplay, increase\/decrease aniamtion speed and number of grid to show and products from store admin.",
+        "type": "1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "related_total_product_to_show": "8",
+        "related_products_autoplay": false,
+        "autoplay_speed": "3000"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "recommanded_products_autoplay": false,
+        "autoplay_speed": "3000",
+        "title": "Recommended Products",
+        "subtitle": "",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "recommanded_total_product_to_show": "8"
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "show_recently_products": true,
+        "recently_autoplay": false,
+        "autoplay_speed": "3000",
+        "title": "Recently Viewed Products",
+        "subtitle": "You can stop autoplay, increase\/decrease aniamtion speed and number of grid to show and products from store admin.",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "recently_pr_limit": "8"
+      }
+    },
+    "1658398601c554c350": {
+      "type": "info-lines",
+      "settings": {
+        "fullwidth": true,
+        "top-offeset": "default",
+        "infolines": "<b>Get 5% Discount when you buy 4 bags. 10% for 6 bags, 20% for 8 bags, and 25% for 10 bags and above. <\/b>",
+        "text-size": 16,
+        "sec_bg_clr": "#c10000",
+        "text_clr": "#ffffff",
+        "text-padding": 20
+      }
+    },
+    "16582204060c664149": {
+      "type": "custom-content",
+      "blocks": {
+        "16582204060742f5e3-0": {
+          "type": "text",
+          "settings": {
+            "title": "Meet The World's Lightest Bag*",
+            "font-size": "h3",
+            "text": "<p>Weighing between <strong>0.59-0.91oz (17-26 grams) <\/strong>Nanobags are the lightest and most practical ultralight bags of its kind on the market. So far we've raised more than $1.7 million on Kickstarter and Indiegogo. They're the perfect everyday carry bags and carry just about anything.<em>(*of its kind and to the best of our knowledge)<\/em><\/p><p><\/p>",
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "16582204060742f5e3-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pouch_720x_36bbdbd4-ea80-4117-a205-d0659e48ea5d.gif",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "d4483864-3f6a-4bb7-845c-727ebc534f5d": {
+          "type": "text",
+          "settings": {
+            "title": "The problem with single-use bags…",
+            "font-size": "h3",
+            "text": "<p>● 160,000 plastic bags are consumed every second and it takes about 14 plastic bags for the equivalent of the gas required to drive one mile.<\/p><p>● Overconsumption is detrimental to the environment and also adds unnecessary costs to the consumers.<\/p><p>● An average person spends $103 a year on single-use plastic bags.<\/p>",
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "74ad725a-5343-4850-94c5-417cc7133901": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nb50_12_7.gif",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "966386a5-e00b-4a19-9584-116d4669ada0": {
+          "type": "text",
+          "settings": {
+            "title": "…and Nanobag solves this problem",
+            "font-size": "h3",
+            "text": "<p>Nanobags are premium shopping bags so compact that you won’t even know you’re carrying them. Not only do they practically disappear in your pocket, they also come in a variety of models to cater to various carrying needs. Additionally our bags come in a wide range of colors and print designs and they’re all limited editions.<\/p>",
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "e65930c5-6c49-4ed2-bc33-1b605c791a49": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NB30_66_lbs.gif",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "aa7bb942-37cb-4e10-9720-6cd3af85e029": {
+          "type": "text",
+          "settings": {
+            "title": "... and you never have to worry",
+            "font-size": "h3",
+            "text": "<p>Nanobags easily carry a load of<strong> 66 lbs (30 kg)<\/strong>. Crafted with our custom-made <strong>diamond ripstop <\/strong>fabric and a sturdy construction they’re super reliable. We have <strong>bartack stitching<\/strong> reinforcing all major stress points to strengthen the structure of the bag. Our bags are also <strong>PFC-free<\/strong>, and are produced according <strong>Oekotex <\/strong>specifications to ensure that the materials are safe for both you and the environment.<\/p>",
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "e02c3c3f-a10e-4483-b623-e37021309020": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NB30_Back_Pocket.gif",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "3e574895-8bb8-4112-bd6b-f72e92a690c6": {
+          "type": "text",
+          "settings": {
+            "title": "Quality guarantee",
+            "font-size": "h3",
+            "text": "<p>We're 100% committed to creating high-quality products. The bags are made with premium custom made nylon polymer fabric and we've put in place a thorough quality-control and testing process to make sure you receive a great final product. <strong>We guarantee that your bags will be of excellent quality.<\/strong><\/p>",
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "26827c7c-d161-4403-ba28-bc2d3c04ddc4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NB30_Testimonials.gif",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "c2a226b6-2e66-48ed-92b8-3563192af6cb": {
+          "type": "text",
+          "settings": {
+            "title": "Every Nanobag plants a tree",
+            "font-size": "h3",
+            "text": "<p>For every bag we sell we plant a tree. We believe it's the responsibility of all companies to factor in the environment and plant trees to mitigate climate change and support local ecosystems. <\/p>",
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "95bed066-22d4-49a0-8dbe-4d233fade1b6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/treeplanting.png",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16582204060742f5e3-0",
+        "16582204060742f5e3-1",
+        "d4483864-3f6a-4bb7-845c-727ebc534f5d",
+        "74ad725a-5343-4850-94c5-417cc7133901",
+        "966386a5-e00b-4a19-9584-116d4669ada0",
+        "e65930c5-6c49-4ed2-bc33-1b605c791a49",
+        "aa7bb942-37cb-4e10-9720-6cd3af85e029",
+        "e02c3c3f-a10e-4483-b623-e37021309020",
+        "3e574895-8bb8-4112-bd6b-f72e92a690c6",
+        "26827c7c-d161-4403-ba28-bc2d3c04ddc4",
+        "c2a226b6-2e66-48ed-92b8-3563192af6cb",
+        "95bed066-22d4-49a0-8dbe-4d233fade1b6"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "prbox_style": "style1",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "17123060258deb6950": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_y6ydiA": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_y6ydiA"
+      ],
+      "settings": {
+      }
+    },
+    "alireviews-section-1658304551": {
+      "type": "apps",
+      "blocks": {
+        "9837fa45-b297-4a1d-9e73-3a670bee5436": {
+          "type": "shopify:\/\/apps\/ryviu-reviews-qa\/blocks\/ryviu-product-reviews\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "r_wapper": "",
+            "r_max_width": 1920,
+            "r_padding_block": 0,
+            "one_col_on_mobile": false,
+            "hide_write_review_from": false,
+            "hide_title_image_form": false
+          }
+        },
+        "f26eb141-f48f-4d4b-83d7-b24338e36797": {
+          "type": "shopify:\/\/apps\/ryviu-reviews-qa\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "r_wapper_class": "",
+            "r_max_width": 1400,
+            "r_padding_block": 70,
+            "hide_when_no_reviews": false,
+            "one_col_on_mobile": false,
+            "hide_title_image_form": false
+          }
+        }
+      },
+      "block_order": [
+        "9837fa45-b297-4a1d-9e73-3a670bee5436",
+        "f26eb141-f48f-4d4b-83d7-b24338e36797"
+      ],
+      "settings": {
+      }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "settings": {
+      }
+    },
+    "1658398565b9bf2365": {
+      "type": "hero",
+      "disabled": true,
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-ipad": 0,
+        "pad-mbl": 0,
+        "ds_height": 600,
+        "tb_height": 350,
+        "mb_height": 250,
+        "parallax_scroll": true,
+        "alignment": "center",
+        "textalign": "center",
+        "pretext": "Pre Heading",
+        "title": "<b>BEST SELLING SHOPIFY <br> THEME IN THE MARKET<\/b>",
+        "text": "<p>The design of your site plays a crucial role. It can make or break your website leading to sales either <br\/>falling flat or converting profitably.<\/p>",
+        "txt_clr": "#000000",
+        "bg_clr": "#ffffff",
+        "bg_opacity": 0.9,
+        "bg_desktop": true,
+        "bg_mobile": true,
+        "button_label": "SHOP COLLECTION",
+        "button_link": "\/",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000"
+      }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "zp-product-header-content",
+    "product",
+    "related-products",
+    "recommendations",
+    "recently-viewed",
+    "1658398601c554c350",
+    "16582204060c664149",
+    "17123060258deb6950",
+    "alireviews-section-1658304551",
+    "loox-product-reviews-app-section",
+    "1658398565b9bf2365",
+    "zp-product-footer-content"
+  ]
+}
