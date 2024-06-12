@@ -126,6 +126,15 @@
     "quotes_XNBJry": {
       "type": "quotes",
       "blocks": {
+        "quote_BeCkrM": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I’ve been using nanobags for a few years now. I bought a few of them during their first kickstarter campaign and liked them so much that I bought a bunch more in the second kickstarter to give to friends and family. They’re super lightweight, sturdy, and fit into my pocket. I keep a few in my car and a couple in my purse for unexpected shopping trips. I love the super cute fabric options and I get compliments on them all the time. I highly recommend nanobags<\/p>",
+            "author": "HEATHER",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
         "quote_JcXQDG": {
           "type": "quote",
           "settings": {
@@ -153,15 +162,6 @@
             "rating": 5
           }
         },
-        "quote_BeCkrM": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>I’ve been using nanobags for a few years now. I bought a few of them during their first kickstarter campaign and liked them so much that I bought a bunch more in the second kickstarter to give to friends and family. They’re super lightweight, sturdy, and fit into my pocket. I keep a few in my car and a couple in my purse for unexpected shopping trips. I love the super cute fabric options and I get compliments on them all the time. I highly recommend nanobags<\/p>",
-            "author": "HEATHER",
-            "display_rat": true,
-            "rating": 5
-          }
-        },
         "quote_pDPhzH": {
           "type": "quote",
           "settings": {
@@ -173,10 +173,10 @@
         }
       },
       "block_order": [
+        "quote_BeCkrM",
         "quote_JcXQDG",
         "quote_wxD6yp",
         "quote_GrDBYp",
-        "quote_BeCkrM",
         "quote_pDPhzH"
       ],
       "custom_css": [
