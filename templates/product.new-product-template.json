@@ -129,7 +129,7 @@
         "quote_BeCkrM": {
           "type": "quote",
           "settings": {
-            "quote": "<p>I’ve been using nanobags for a few years now. I bought a few of them during their first kickstarter campaign and liked them so much that I bought a bunch more in the second kickstarter to give to friends and family. They’re super lightweight, sturdy, and fit into my pocket. I keep a few in my car and a couple in my purse for unexpected shopping trips. I love the super cute fabric options and I get compliments on them all the time. I highly recommend nanobags<\/p>",
+            "quote": "<h6>I’ve been using nanobags for a few years now. I bought a few of them during their first kickstarter campaign and liked them so much that I bought a bunch more in the second kickstarter to give to friends and family. They’re super lightweight, sturdy, and fit into my pocket. I keep a few in my car and a couple in my purse for unexpected shopping trips. I love the super cute fabric options and I get compliments on them all the time. I highly recommend nanobags<\/h6>",
             "author": "HEATHER",
             "display_rat": true,
             "rating": 5
@@ -138,7 +138,7 @@
         "quote_JcXQDG": {
           "type": "quote",
           "settings": {
-            "quote": "<p>The best thing I ever bought from an instagram ad. I have 4 of these now and stuff them in my tiny backpack to use as needed. So useful. I leverage them every single time I buy something in a store. Never curse yourself for forgetting your reusable bags again. I LOVE these<\/p>",
+            "quote": "<h6>The best thing I ever bought from an instagram ad. I have 4 of these now and stuff them in my tiny backpack to use as needed. So useful. I leverage them every single time I buy something in a store. Never curse yourself for forgetting your reusable bags again. I LOVE these<\/h6>",
             "author": "Katie",
             "display_rat": true,
             "rating": 5
@@ -147,7 +147,7 @@
         "quote_wxD6yp": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Love these bags! They are so tiny they fit anywhere so I always have a reusable bag with me. They hold a ton of stuff even if it's really heavy.<\/p>",
+            "quote": "<h6>Love these bags! They are so tiny they fit anywhere so I always have a reusable bag with me. They hold a ton of stuff even if it's really heavy.<\/h6>",
             "author": "Susan\n",
             "display_rat": true,
             "rating": 5
@@ -156,17 +156,8 @@
         "quote_GrDBYp": {
           "type": "quote",
           "settings": {
-            "quote": "<p>My favorite bag to travel with or go shopping!! So small when packed but big when unfolded and love that it’s a crossbody bag!<\/p>",
+            "quote": "<h6>My favorite bag to travel with or go shopping!! So small when packed but big when unfolded and love that it’s a crossbody bag!<\/h6>",
             "author": "Cecilia",
-            "display_rat": true,
-            "rating": 5
-          }
-        },
-        "quote_pDPhzH": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
             "display_rat": true,
             "rating": 5
           }
@@ -176,8 +167,7 @@
         "quote_BeCkrM",
         "quote_JcXQDG",
         "quote_wxD6yp",
-        "quote_GrDBYp",
-        "quote_pDPhzH"
+        "quote_GrDBYp"
       ],
       "custom_css": [
         "@media only screen and (min-width: 768px) {.sec-template--16605028515976__quotes_XNBJry {margin-top: -50px;}"
@@ -190,12 +180,12 @@
         "autoplay": true,
         "autoplay_speed": 8,
         "arrow": true,
-        "dots": false,
+        "dots": true,
         "testimonials_bg": "#f9f9f9",
         "testimonials_hd": "#444",
         "testimonials_text": "#444",
-        "text_bg": "",
-        "rating_clr": "#EBB868"
+        "text_bg": "rgba(0,0,0,0)",
+        "rating_clr": "#ffbc53"
       }
     },
     "16582204060c664149": {
