@@ -126,6 +126,15 @@
     "quotes_XNBJry": {
       "type": "quotes",
       "blocks": {
+        "quote_JcXQDG": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>The best thing I ever bought from an instagram ad. I have 4 of these now and stuff them in my tiny backpack to use as needed. So useful. I leverage them every single time I buy something in a store. Never curse yourself for forgetting your reusable bags again. I LOVE these<\/p>",
+            "author": "Katie",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
         "quote_wxD6yp": {
           "type": "quote",
           "settings": {
@@ -161,23 +170,14 @@
             "display_rat": true,
             "rating": 5
           }
-        },
-        "quote_JcXQDG": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>The best thing I ever bought from an instagram ad. I have 4 of these now and stuff them in my tiny backpack to use as needed. So useful. I leverage them every single time I buy something in a store. Never curse yourself for forgetting your reusable bags again. I LOVE these<\/p>",
-            "author": "Katie",
-            "display_rat": true,
-            "rating": 5
-          }
         }
       },
       "block_order": [
+        "quote_JcXQDG",
         "quote_wxD6yp",
         "quote_GrDBYp",
         "quote_BeCkrM",
-        "quote_pDPhzH",
-        "quote_JcXQDG"
+        "quote_pDPhzH"
       ],
       "custom_css": [
         ".sec-template--16605028515976__quotes_XNBJry {margin-top: -50px;}"
