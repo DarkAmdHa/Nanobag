@@ -160,7 +160,7 @@
         "679037ac-fdf7-4af6-9a62-df6890f32c60"
       ],
       "custom_css": [
-        ".feature-row__image {display: block; border-radius: 15px; border: 2px solid #000; margin: 20px;}"
+        ".feature-row__image {display: block; border-radius: 15px; border: 2px solid #000; margin: 0;}"
       ],
       "settings": {
         "top-offeset": "default",
