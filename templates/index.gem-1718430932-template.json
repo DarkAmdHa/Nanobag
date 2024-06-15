@@ -1,0 +1,561 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "1561726660568-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nanobag_website_main_banner-blue_test.png",
+            "alignment": "top",
+            "smalltitle": "",
+            "heading1": "#ffffff",
+            "title": "<b> Ultralight bags<\/b>",
+            "heading2": "#ffffff",
+            "subheading": "Probalby the lightest bags in the world!",
+            "heading3": "#ffffff",
+            "slide_button_text": "Shop now",
+            "link": "shopify:\/\/collections",
+            "btn-style": "btn",
+            "display_btn": false,
+            "slide_button2_text": "Shop now",
+            "link2": "",
+            "btn-style2": "btn",
+            "newTab": false,
+            "text_align": "center"
+          }
+        },
+        "1561726660568-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/website_banner_color_corrected.webp",
+            "alignment": "top",
+            "smalltitle": "",
+            "heading1": "#ffffff",
+            "title": "<b>Ultralight bags<\/b>",
+            "heading2": "#ffffff",
+            "subheading": "<b>Probably the lightest bags in the world<\/b>",
+            "heading3": "#ffffff",
+            "slide_button_text": "Shop Now",
+            "link": "shopify:\/\/products\/reusable-shopping-bags",
+            "btn-style": "btn--secondary",
+            "display_btn": false,
+            "slide_button2_text": "Shop now",
+            "link2": "shopify:\/\/products\/reusable-shopping-bags",
+            "btn-style2": "btn",
+            "newTab": false,
+            "text_align": "center"
+          }
+        },
+        "82ddb551-6bdb-443d-8b14-acd35e69ed1b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "top",
+            "smalltitle": "Small Heading",
+            "heading1": "#000000",
+            "title": "Large Heading",
+            "heading2": "#000000",
+            "subheading": "Tell your brand's story",
+            "heading3": "#000000",
+            "slide_button_text": "Shop now",
+            "link": "",
+            "btn-style": "btn",
+            "display_btn": false,
+            "slide_button2_text": "Shop now",
+            "link2": "",
+            "btn-style2": "btn",
+            "newTab": false,
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1561726660568-0",
+        "1561726660568-1",
+        "82ddb551-6bdb-443d-8b14-acd35e69ed1b"
+      ],
+      "settings": {
+        "section_width": false,
+        "box-width": 1500,
+        "top-offeset": "none",
+        "snow_effect": false,
+        "snow_style": "style2",
+        "autoplay": true,
+        "autoplay_speed": "7000",
+        "arrow": true,
+        "dots": true,
+        "txtanimation": true,
+        "animation-style": "style1",
+        "text-align": "center",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "ds_height": 700,
+        "tb_height": 550,
+        "mb_height": 350
+      }
+    },
+    "1633781722aeb0502c": {
+      "type": "collection-banner",
+      "blocks": {
+        "1560507278694-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nanobag",
+            "url": "",
+            "collection_name": "ULTRALIGHT BAGS",
+            "collection_name2": "",
+            "textalign": "center",
+            "text-left": false,
+            "collection_btn": "SHOP NOW",
+            "width": "50%"
+          }
+        },
+        "1560507334237": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nanobag",
+            "url": "",
+            "collection_name": "ACCESSORIES",
+            "collection_name2": "",
+            "textalign": "center",
+            "text-left": false,
+            "collection_btn": "Shop Now",
+            "width": "50%"
+          }
+        },
+        "1560507278694-1": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "women",
+            "url": "",
+            "collection_name": "DENIM",
+            "collection_name2": "Find your perfect outfit",
+            "textalign": "center",
+            "text-left": false,
+            "collection_btn": "Shop Now",
+            "width": "50%"
+          }
+        },
+        "1560593691516": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "accssories",
+            "url": "",
+            "collection_name": "ACCESSORIES",
+            "collection_name2": "add finishing touch to your outfit",
+            "textalign": "center",
+            "text-left": false,
+            "collection_btn": "Shop Now",
+            "width": "50%"
+          }
+        }
+      },
+      "block_order": [
+        "1560507278694-0",
+        "1560507334237",
+        "1560507278694-1",
+        "1560593691516"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "hide_mobile": true,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 50,
+        "box_bg": "#ffffff",
+        "box_txt": "#000000",
+        "disable_zoom": false,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633781728a88de982": {
+      "type": "product-slider",
+      "disabled": true,
+      "settings": {
+        "title": "<b>NEW ARRIVALS<\/b>",
+        "subtitle": "Shop our new arrivals from established brands",
+        "collection": "nanobag",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "163378174190f4bb4d": {
+      "type": "collection-banner",
+      "blocks": {
+        "1561783119274-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "url": "",
+            "collection_name": "FIND THE BEST COLLECTION AROUND THE WORLD",
+            "collection_name2": "",
+            "textalign": "center",
+            "text-left": false,
+            "collection_btn": "Shop Now",
+            "width": "50%"
+          }
+        },
+        "1561783119274-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "url": "",
+            "collection_name": "AWESOME T-SHIRTS, CROP TOPS AND MORE...",
+            "collection_name2": "",
+            "textalign": "center",
+            "text-left": false,
+            "collection_btn": "VIEW COLLECTION",
+            "width": "50%"
+          }
+        }
+      },
+      "block_order": [
+        "1561783119274-0",
+        "1561783119274-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 60,
+        "box_bg": "#ffffff",
+        "box_txt": "#000000",
+        "disable_zoom": false,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-bar",
+      "blocks": {
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KS_logo_1.png",
+            "link": "https:\/\/www.kickstarter.com\/projects\/tiptopthings\/nanobag-50-ultralight-bags",
+            "opentab": false
+          }
+        },
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/igg_1.png",
+            "link": "https:\/\/www.indiegogo.com\/projects\/nanobag-5-0-ultralight-bags",
+            "opentab": false
+          }
+        },
+        "72a4ae97-0f18-4ff6-abb5-5383a277ba3e": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/forbes_2.png",
+            "link": "https:\/\/www.forbes.com\/sites\/jeffkart\/2019\/07\/23\/tiny-nanobag-3-0-fits-in-your-watch-pocket\/?sh=739017374499",
+            "opentab": false
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/trend-hunter-inc-logo-vector_1.png",
+            "link": "https:\/\/www.trendhunter.com\/trends\/nanobag",
+            "opentab": false
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gadget-Flow-Logo-Main2.webp",
+            "link": "https:\/\/thegadgetflow.com\/portfolio\/foldable-carry-bags\/",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "1561785365595-0",
+        "1561785365595-1",
+        "72a4ae97-0f18-4ff6-abb5-5383a277ba3e",
+        "1561785365595-2",
+        "1561785365595-3"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "title": "",
+        "subtitle": "",
+        "logostyle": "carousel",
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 4
+      }
+    },
+    "1658150833b5f8b073": {
+      "type": "custom-content",
+      "blocks": {
+        "1658150833d708aef5-0": {
+          "type": "text",
+          "settings": {
+            "title": "SPECIAL OFFER",
+            "font-size": "h1",
+            "text": "<p>For a limited time only get <strong>FREE<\/strong> shipping when you spend more than <strong>US$40<\/strong> along with a <strong>10%<\/strong> discount when you add 4 bags or more to your cart. The discount goes all the way up to <strong>25%<\/strong> when you purchase 8 or more bags! <\/p>",
+            "btntxt": "Shop Now",
+            "btnurl": "shopify:\/\/products\/reusable-shopping-bags",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "1658150833d708aef5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pouch_720x_36bbdbd4-ea80-4117-a205-d0659e48ea5d.gif",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "31614d2f-0c45-4723-a2c7-fc9ec4a3b1dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/treeplanting-min.png",
+            "imgurl": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "b47f8f13-c246-411a-aca5-0003d7c02171": {
+          "type": "text",
+          "settings": {
+            "title": "1 Bag Sold = 1 Tree Planted",
+            "font-size": "h1",
+            "text": "<p>Trees happen to be one of the most effective tools against climate change, and a single tree can absorb up <strong>40kg of CO2<\/strong> per year. As an added bonus they prevent soil erosion and help sustain local ecosystems.<\/p>",
+            "btntxt": "Shop NOw",
+            "btnurl": "shopify:\/\/products\/reusable-shopping-bags",
+            "btn-style": "btn",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "1658150833d708aef5-0",
+        "1658150833d708aef5-1",
+        "31614d2f-0c45-4723-a2c7-fc9ec4a3b1dd",
+        "b47f8f13-c246-411a-aca5-0003d7c02171"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "prbox_style": "style1",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1658396761a4de5ff9": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Enter our monthly giveaway to WIN!",
+        "subtitle": "<br>\nSign up now, for your chance to win a FREE Nanobag Grey! New winner drawn the 1st every month. Enter once, be in forever!",
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": true,
+        "sec_bg_clr": "#f15050",
+        "text_clr": "#000000",
+        "input_bg": "#ffffff",
+        "input_text": "#000000",
+        "input_btn": "#dddddd",
+        "input_btn_text": "#000000"
+      }
+    },
+    "16337817926d98687d": {
+      "type": "store-features",
+      "blocks": {
+        "1561784085337-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "ad-free-delivery",
+            "title": "FREE SHIPPING",
+            "text": "<p>Free shipping on orders above US$40 <\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "ad-money",
+            "title": "DISCOUNTS",
+            "text": "<p>Up to 20% with purchases<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-2": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "icons": "ad-envelope-l",
+            "title": "CONTACT OUR SUPPORT",
+            "text": "<p><a href=\"mailto:support@nanobag.net\" title=\"mailto:support@nanobag.net\">support@nanobag.com<\/a><\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1561784085337-0",
+        "1561784085337-1",
+        "1561784085337-2"
+      ],
+      "settings": {
+        "hide_mobile": false,
+        "top-offeset": "none",
+        "title": "",
+        "subtitle": "",
+        "style": "style1",
+        "enable_icons": true,
+        "icon-type": "icon",
+        "iconsize": "40",
+        "head_size": 14,
+        "section_cov": true,
+        "sec_bg_clr": "#131313",
+        "icons_clr": "#eeeeee",
+        "text_clr": "#ffffff",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "1658221049932ecf9a": {
+      "type": "apps",
+      "blocks": {
+        "de7cd703-7e97-4d62-8c98-9a06b9c70d14": {
+          "type": "shopify:\/\/apps\/maestrooo-section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "Check out our Instagram feed",
+            "subheading": "",
+            "button_text": "",
+            "button_link": "",
+            "layout": "grid",
+            "image_size": "small",
+            "add_spacing": true,
+            "rows_count": 2,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "de7cd703-7e97-4d62-8c98-9a06b9c70d14"
+      ],
+      "settings": {
+      }
+    },
+    "1633781776086e75a0": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "title": "<b>FRESH FROM OUR BLOG<\/b>",
+        "subtitle": "You are going to love this amazing shopify theme.",
+        "top-offeset": "default",
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "blog": "news",
+        "img_ratio": "40",
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_align": "text-center",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_comment": true,
+        "show_mini_des": false,
+        "show_read_more": false,
+        "show_view_all": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1633781722aeb0502c",
+    "1633781728a88de982",
+    "163378174190f4bb4d",
+    "1633781759ce68e676",
+    "1658150833b5f8b073",
+    "1658396761a4de5ff9",
+    "16337817926d98687d",
+    "1658221049932ecf9a",
+    "1633781776086e75a0"
+  ]
+}
