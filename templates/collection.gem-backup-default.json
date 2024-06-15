@@ -1,0 +1,138 @@
+{
+  "sections": {
+    "collection": {
+      "type": "main-collection",
+      "blocks": {
+        "fe77a0fc-9912-4d85-9b2f-9a3a82a0e552": {
+          "type": "categories",
+          "settings": {
+            "title": "Categories",
+            "side_categories": ""
+          }
+        },
+        "6689e460-c4b5-4b81-8249-2bdb2b964b70": {
+          "type": "filter_by",
+          "settings": {
+            "title": "Filter By:",
+            "column": "",
+            "color_size": "small",
+            "color_style": "rounded"
+          }
+        },
+        "347a9c5e-6540-4272-b2c3-23cdd9169d12": {
+          "type": "products",
+          "settings": {
+            "title": "POPULAR PRODUCT",
+            "sidebar_products": "shoes",
+            "num_of_products": "3",
+            "side_all_products": false,
+            "btn_txt": "View All",
+            "side_prod_opt": "slider"
+          }
+        }
+      },
+      "block_order": [
+        "fe77a0fc-9912-4d85-9b2f-9a3a82a0e552",
+        "6689e460-c4b5-4b81-8249-2bdb2b964b70",
+        "347a9c5e-6540-4272-b2c3-23cdd9169d12"
+      ],
+      "disabled": true,
+      "settings": {
+        "fullwidth": false,
+        "bnr": false,
+        "banner_position": "content-side",
+        "show_collection_name": true,
+        "bnr_desc": "",
+        "bnr_count": "",
+        "bheight": 200,
+        "bheightipad": 200,
+        "bheightmob": 100,
+        "bnr-wd": 600,
+        "ftTtl": 42,
+        "ttlft": "font2",
+        "ttlwt": "fw-700",
+        "ttlcase": "tt-u",
+        "ftTxt": 15,
+        "ttlclr": "#000000",
+        "clr_bg": "rgba(0,0,0,0)",
+        "show_collection_image": false,
+        "collection-des": "top",
+        "clr_text": "#111111",
+        "clr_text_des": "#111111",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "large",
+        "color_style": "rectangle",
+        "sort_enable": true,
+        "dis_prod_cnt": true,
+        "dis_grid_icn": true,
+        "prbox_style": "style1",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "9",
+        "pagination": "infinite",
+        "collection_sidebar": false,
+        "sidebar_position": "left"
+      }
+    },
+    "529edc64-7a44-408f-a44a-4dc6c5bcab6d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15491623780488__529edc64-7a44-408f-a44a-4dc6c5bcab6d-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/website_banner_color_corrected.webp",
+            "alignment": "top",
+            "smalltitle": "",
+            "heading1": "#ffffff",
+            "title": "<b>Ultralight bags<\/b>",
+            "heading2": "#ffffff",
+            "subheading": "Probably the lightest bags in the world",
+            "heading3": "#ffffff",
+            "slide_button_text": "Shop now",
+            "link": "shopify:\/\/products\/reusable-shopping-bags",
+            "btn-style": "btn--secondary",
+            "display_btn": false,
+            "slide_button2_text": "Shop now",
+            "link2": "shopify:\/\/products\/reusable-shopping-bags",
+            "btn-style2": "btn",
+            "newTab": false,
+            "text_align": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15491623780488__529edc64-7a44-408f-a44a-4dc6c5bcab6d-image-1"
+      ],
+      "settings": {
+        "section_width": false,
+        "box-width": 1500,
+        "top-offeset": "none",
+        "snow_effect": false,
+        "snow_style": "style2",
+        "autoplay": true,
+        "autoplay_speed": "7000",
+        "arrow": true,
+        "dots": false,
+        "txtanimation": false,
+        "animation-style": "style1",
+        "text-align": "center",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "ds_height": 700,
+        "tb_height": 550,
+        "mb_height": 350
+      }
+    }
+  },
+  "order": [
+    "collection",
+    "529edc64-7a44-408f-a44a-4dc6c5bcab6d"
+  ]
+}
