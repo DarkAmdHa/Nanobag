@@ -1,7 +1,7 @@
 {
   "sections": {
-    "gp_section_518568899780805707": {
-      "type": "gp-section-518568899780805707",
+    "gp_section_518569155717235872": {
+      "type": "gp-section-518569155717235872",
       "settings": {
         "section_preload": "true"
       }
@@ -38,7 +38,7 @@
     }
   },
   "order": [
-    "gp_section_518568899780805707",
+    "gp_section_518569155717235872",
     "gp_section_518568901424972680",
     "gp_section_518568901458527014",
     "gp_section_518568900737106824",
