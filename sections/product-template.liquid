@@ -53,7 +53,8 @@
               	endif
           	-%}
 			<div class="primgSlider" data-slick='{"slidesToShow":{{slidetoshow}},"slidesToScroll": 1,"adaptiveHeight": true,"centerMode": {{centermode}}, "infinite": {{slideloop}}, "fade": {{slidefade}},{% if settings.rtl %} "rtl": true,{% endif %} "asNavFor": ".product-single__thumbnails-{{section.id}}", "responsive":[{"breakpoint": 767,"settings":{"slidesToShow": 1,"swipe":false }} ]}'>
-				{%- for media in product.media -%}
+				<p>Test</p>
+              {%- for media in product.media -%}
 					{%- assign imgNo = forloop.index0 -%}
               		{%- case media.media_type -%}
       					{%- when 'image' -%}
