@@ -32,7 +32,7 @@
 
 {%- assign product_thumbnail_width = 'small--one-third large-up--one-fifth' -%}
 {%- assign featured_img_src = current_variant.featured_image.src | default: product.featured_image.src -%}
-
+<p>Test</p>
 <div class="ptContainer {{settings.product_latyout}}{% if settings.product_latyout != "style6" %} page-width{% if settings.product_fullwidth %} fullwidth{%endif%}{%endif%}" data-style="{{settings.product_latyout}}" id="ProductSection-{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="product" data-enable-history-state="true">
 	{%- capture productImages -%}
 		<div class="prod-large-img" data-product-single-media-group>
@@ -53,8 +53,7 @@
               	endif
           	-%}
 			<div class="primgSlider" data-slick='{"slidesToShow":{{slidetoshow}},"slidesToScroll": 1,"adaptiveHeight": true,"centerMode": {{centermode}}, "infinite": {{slideloop}}, "fade": {{slidefade}},{% if settings.rtl %} "rtl": true,{% endif %} "asNavFor": ".product-single__thumbnails-{{section.id}}", "responsive":[{"breakpoint": 767,"settings":{"slidesToShow": 1,"swipe":false }} ]}'>
-				<p>Test</p>
-              {%- for media in product.media -%}
+				{%- for media in product.media -%}
 					{%- assign imgNo = forloop.index0 -%}
               		{%- case media.media_type -%}
       					{%- when 'image' -%}
