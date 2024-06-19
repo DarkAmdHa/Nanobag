@@ -123,10 +123,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 <body id="{{ page_title | handle }}" class="template-{{ template | split: '.' | first }} {%- if settings.rtl -%}rtl {%- endif -%}lazyload"
 	{%- if settings.bodybg_img %} data-bgset="{% include 'bgset', image: settings.bodybg_img %}" data-sizes="auto" data-parent-fit="cover" style="background-image:url('{{ settings.bodybg_img | img_url: '50x50' }});"{%- endif -%}>
-	{%- if settings.enable_age_varification -%}{%- endif -%}
+	{%- if settings.enable_age_varification -%}<div style="display:none"> {% render 'age-check' %} </div>{%- endif -%}
     {%- if settings.layout_style == "boxedlayout" -%}<div class="page-wrapper layout-boxed">{%- endif -%}
-  		
-    	{%- if settings.top-information-bar -%}{%- endif -%}
+  		<div style="display:none"> {%- include 'header' -%} </div>
+    	{%- if settings.top-information-bar -%}<div style="display:none"> {% section 'top-info-panel' %} </div>{%- endif -%}
 		<main id="PageContainer" class="main-content {{ template | split: '.' | first }}" id="MainContent" role="main">{{ content_for_layout }}</main>
     	{%- section 'footer' -%}
   	{% if settings.layout_style == "boxedlayout" %}</div>{% endif %}  
