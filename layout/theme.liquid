@@ -138,7 +138,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {%- if content_for_layout contains 'grid-masonary' -%}<script src="{{ 'masonry.js' | asset_url }}" defer="defer"></script>{%- endif -%}
 {%- if settings.show_multiple_currencies and settings.currency_opt == 'script' -%}{%- render 'currencies' -%}{%- endif -%}
 {%- if settings.enable_site_animation -%}<script src="{{ 'wow.min.js' | asset_url }}" async></script>{%- endif -%}
-<script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
+<script src="{{ 'theme.min.js' | asset_url }}" defer="defer"></script>
 <script src="{{ 'custom.js' | asset_url }}" defer="defer"></script>
 
 {%- render 'theme-modals' -%}
